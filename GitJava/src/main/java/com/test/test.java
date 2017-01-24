@@ -5,7 +5,7 @@ public class test {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Hello Emo Java program!!!");
+		System.out.println("Hello Emo Java program!!! Commit!");
 
 	}
 
